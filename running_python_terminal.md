@@ -1,2 +1,7 @@
+## Running a File Via Terminal
+
 To run a python file in your terminal, run the command:
-    $ python your_file_name.py 
+
+```bash
+$ python your_file_name.py
+```
