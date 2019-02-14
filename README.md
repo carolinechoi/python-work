@@ -1,6 +1,6 @@
 # ✨ Python Adventure 🐍
 
-I've also wanted to learn Python, not just because the name is cool (worthy of a Cardi B song title), but because it's a simple and user-friendly language. Additionally, I want to delve into and learn more about artificial intelligence and complex algorithms.
+I've always wanted to learn Python, not just because the name is cool (worthy of a Cardi B song title), but because it's a simple and user-friendly language. Additionally, I want to delve into and learn more about artificial intelligence and complex algorithms.
 
 The resources I am using are:
 * *Python Crash Course*: a project-based guide by Eric Matthes.
