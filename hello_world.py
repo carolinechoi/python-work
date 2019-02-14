@@ -5,3 +5,4 @@ message = "My name is " + name
 print(message)
 
 # Don't forget that spaces in between quotations matter!
+# "My name" and "My name " print differently.
