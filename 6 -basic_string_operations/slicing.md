@@ -57,5 +57,3 @@ print(reverse_string[::-1])</code></pre>
 
 This is simple. Use **.upper()** and **.lower()**.
 
-### Checking Boolean Values
-

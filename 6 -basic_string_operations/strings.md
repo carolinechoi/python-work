@@ -26,10 +26,10 @@ Use **.index()** to find the index number of a letter/punctuation mark.
 
 Ex:
 <pre><code>my_string = "Take your time!"
-printedIndex = my_string.index("t")
+printedIndex = my_string.index("T")
 print(printedIndex)</code></pre>
 
-The above code would return 0 as the first time "t" appears is the first character.
+The above code would return 0 as the first time "T" appears is the first character. It's case-sensitive!
 
 ## Changing Case in Strings
 
