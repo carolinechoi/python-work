@@ -1,12 +1,16 @@
 ## Counting Characters
 
+Note: It's imperative to know that Python counts the first character of your string as *0*. 0️⃣💅
+
 The method **len()** counts the characters in the string. 
 
 Ex:
 <pre><code>string = "Hello world!"
 print(len(string))</code></pre>
 
-The above code would print 12, as "Hello world!" is 12, including punctuation and spaces. ✨ Note how the thing that goes in the **()** is the string name.
+The above code would print 12, as "Hello world!" is 12, including punctuation and spaces. 
+
+✨ Note how the thing that goes in the **()** is the string name.
 
 Additionally, you can use the function **.count()** to count the number of times a character appears in a string. 
 
