@@ -7,3 +7,7 @@ The resources I am using are:
 * *MIT OpenCourseWare*: specifically, course 6.0001, "Introduction to computer science and programming in python" of Fall 2016
 
 ** Disclaimer: Because of school, I'll probably forget to update this for a few weeks at a time. So the current files in this Repo may not be up to date. 
+
+# 🌟 Update! 🐍
+
+Ya girl has started life as a NASA intern. And guess what? Learning the fundamentals of Python is included in my training. I'll be using this repo to take notes and organize my Python studies from now on. 

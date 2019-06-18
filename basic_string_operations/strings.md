@@ -21,8 +21,8 @@ This code would give you the number 3, as the character "l" appears 3 times with
 Use stringName**.index()** to find the index number of a letter/punctuation mark.
 
 Ex:
-<pre><code>myString = "Take your time!"
-printedIndex = myString.index("t")
+<pre><code>my_string = "Take your time!"
+printedIndex = my_string.index("t")
 print(printedIndex)</code></pre>
 
 The above code would return 0 as the first time "t" appears is the first character.
