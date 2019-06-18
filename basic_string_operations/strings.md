@@ -14,11 +14,11 @@ Ex:
 <pre><code>string = "Hello world!"
 print(string.count("l"))</code></pre>
 
-This code would give you the number 3, as the character "l" appears 3 times within the string <em>string</em>.
+This code would give you the number 3, as the character "l" appears 3 times within the string *string*.
 
 ## Indexing Strings
 
-Use stringName**.index()** to find the index number of a letter/punctuation mark.
+Use **.index()** to find the index number of a letter/punctuation mark.
 
 Ex:
 <pre><code>my_string = "Take your time!"
