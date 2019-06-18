@@ -3,7 +3,7 @@
 To run a python file in your terminal, execute the command:
 
 ```bash
-$ python your_file_name.py
+$ py your_file_name.py
 ```
 
 ## Naming Conventions
